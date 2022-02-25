@@ -10,3 +10,5 @@ And what better way of getting your hands dirty, than using it for something tha
 
 Growing up, I would pride myself in knowing a lot of cricket statistics. My first addiction to data was knowing these cricket stats and rattle them off during any relevant cricket conversations.
 
+## License
+GNU General Public License v3.0
